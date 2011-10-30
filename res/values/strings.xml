@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SmessyAndroidActivity!</string>
+    <string name="app_name">Smessy Android</string>
+    <string name="happen">Make stuff happen!</string>
+    <string name="empty"></string>
+
+</resources>
